@@ -9,4 +9,4 @@
 - 编程的一些知识分享
 
 [GitHub](https://github.com/rongxu-GitHub)
-[Get Started](./README.md)
+[COME IN](./README.md)
