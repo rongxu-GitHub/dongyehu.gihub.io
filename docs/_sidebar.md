@@ -1,16 +1,14 @@
 * 破万卷
-  * [变量声明关键字](tech_articles/Variable-declaration-keyword.md)
-  * [JavaScript递增/递减操作符](tech_articles/operator.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
+  * [变量声明关键字](tech_articles/JavaScript-variable-keyword.md)
+  * [JavaScript递增/递减操作符](tech_articles/JavaScript-operator.md)
+  * [Git的使用](tech_articles/how-to-use-git.md)
+  * [apply()和call()的用法](tech_articles/call&apply.md)
+  * [《深入浅出统计学》笔记](tech_articles/Head_First_Statistics.md)
 
 
 * 知冷暖
   * [配置项](zh-cn/configuration.md)
-  * [主题](zh-cn/themes.md)
-  * [使用插件](zh-cn/plugins.md)
-  * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md)
+
 
 
 * 寻伯乐
