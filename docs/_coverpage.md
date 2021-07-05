@@ -1,3 +1,5 @@
+![](./static/giraffe128.svg)
+
 # HI HO! SILVER~
 
 > 这是我的小站，您的到来令小站蓬荜生辉，欢迎欢迎！
@@ -10,3 +12,12 @@
 
 [GitHub](https://github.com/rongxu-GitHub)
 [COME IN](./README.md)
+
+
+<!-- 背景图片 -->
+
+<!-- ![](./static/background-image.jpg) -->
+
+<!-- 背景色 -->
+
+<!-- ![color](#f0f0f0) -->

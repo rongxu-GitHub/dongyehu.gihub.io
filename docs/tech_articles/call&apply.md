@@ -45,4 +45,3 @@ return sum.call(this, num1, num2);
 ```
 
 如果想直接传 arguments对象或者一个数组，那就用 apply()；否则，就用 call()。
-
